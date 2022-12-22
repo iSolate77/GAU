@@ -5,6 +5,7 @@
 # Trello:
 ![Trello](assets/Trello.png)
 # Link to your deployed application.
+[General Assembly University](https://app.cyclic.sh/#/app/isolate77-gau/overview)
 # List of unsolved problems.
 * Login verification for Students
 * Major Section
